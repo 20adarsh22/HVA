@@ -1,5 +1,5 @@
 body{
-    background-color:rgb(243, 235, 237);
+    background-color: black;
 }
 table{
     margin:110px 50px 30px 500px;
@@ -8,6 +8,7 @@ table{
 }
 table,td {
         border: 3px solid black;
+  border-radius:10px;
         text-align: center;
      }
 td{
@@ -18,14 +19,15 @@ td{
 #calc{
  width: 250px;
 border: 3px solid black;
-border-radius: 3px;
+border-radius: 15px;
 padding: 20px;
 margin: auto;
 }
 button{
     font-size:20px;
-    height:40px;
-    width:40px;
+    height:50px;
+    width:50px;
+    border-radius: 10px;
 }
 
 
